@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleUserForm</string>
+    <string name="firstNameLabel">First Name</string>
+    <string name="lastNameLabel">Last Name</string>
+    <string name="activeUserLabel">Active User</string>
+    <string name="addUserBtnText">Add user</string>
+</resources>
