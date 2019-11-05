@@ -4,4 +4,5 @@
     <string name="lastNameLabel">Last Name</string>
     <string name="activeUserLabel">Active User</string>
     <string name="addUserBtnText">Add user</string>
+    <string name="edit_user_btn">Edit user</string>
 </resources>
